@@ -19,8 +19,8 @@ For the case where `Official` is the provider, since First-Ladder cannot touch t
 
 ## Censorship Circumvention Tools
 
-| Download Pages |  Comments |
-|---|---|
-| [Tor Browser](https://github.com/TheTorProject/gettorbrowser)  | After downloading and extracting the Tor Browser, use the pluggable transports to circumvent censorship. "meek-amazon" or "meek-azure" will oftern work in heavily censored area, like China. |
-| [Lantern](https://github.com/getlantern/lantern)  |   |
-| [Psiphon3](https://s3.amazonaws.com/0ubz-2q11-gi9y/zh.html)  |   |
+| Download Pages |  Comments | Provider/Distributor |
+|---|---|---|
+| [Tor Browser](https://github.com/TheTorProject/gettorbrowser)  | After downloading and extracting the Tor Browser, use the pluggable transports to circumvent censorship. "meek-amazon" or "meek-azure" will oftern work in heavily censored area, like China. | Official |
+| [Lantern](https://github.com/getlantern/lantern)  |   | Official |
+| [Psiphon3](https://s3.amazonaws.com/0ubz-2q11-gi9y/zh.html)  |   | Official |
